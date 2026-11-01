@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "ONEPAY - Buy & Sell Pakistan",
+  "short_name": "ONEPAY",
+  "description": "Pakistan's leading P2P Buy & Sell order matching system with EasyPaisa and JazzCash.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#dc2626",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/assets/aistudio/IMG_20261101_005636_465_72772fab.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/aistudio/IMG_20261101_005636_465_72772fab.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}

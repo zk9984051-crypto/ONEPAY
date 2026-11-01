@@ -1,0 +1,8 @@
+{
+  "name": "One pay",
+  "description": "Pakistan\u0027s leading buy and sell marketplace with integrated EasyPaisa and JazzCash mobile checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
